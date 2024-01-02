@@ -109,32 +109,69 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+Developed by: DEVESH S
+
+RegisterNumber: 23004345  
 */
+D flip - flop:
+
+![Exp5 dfp code](https://github.com/23004345/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138849203/8126cb50-0ef5-4a9b-86c9-bfacb07bddff)
+
+T flip - flop
+
+![Exp5 tfp code](https://github.com/23004345/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138849203/bf2c98de-937f-48b4-adf6-993c699f8dd3)
+
+JK flip - flop:
+
+![Exp5 jkfp code](https://github.com/23004345/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138849203/69e9d48e-7205-40ad-a092-d2a78d9eae8f)
+
+SR flipo - flop:
 
 
-
+![Exp5 srfp code](https://github.com/23004345/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138849203/c1eae5e4-f894-4d19-82aa-625e75ce13fb)
 
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+D flip - flop:
 
+![Exp5 dfp RTL diagram](https://github.com/23004345/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138849203/c1210534-a183-4001-9e1b-e15130a5378c)
 
+T flip - flop
 
+![Exp5 tfp RTL diagram](https://github.com/23004345/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138849203/bc04fc1b-c076-469e-949a-8333efef1a02)
 
+JK flip - flop:
 
+![Exp5 jkfp RTL diagram](https://github.com/23004345/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138849203/a1e4fd37-d51e-4934-8381-5e44038ab715)
 
+SR flipo - flop:
+
+![Exp5 srfp RTL diagram](https://github.com/23004345/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138849203/4d47b7ad-5c5d-4efe-9345-9167d6bf448e)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+D flip - flop:
+
+![d wave](https://github.com/23004345/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138849203/cec086af-1adc-423e-ba7d-19d59966591a)
+
+T flip - flop
+
+![t wave](https://github.com/23004345/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138849203/e4b26144-a12f-492b-8097-a58d9d5efbd0)
 
 
+JK flip - flop:
 
+![jk wave](https://github.com/23004345/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138849203/73dac919-9aea-4085-9bac-0ca219faaa7f)
 
+SR flipo - flop:
 
+![sr wave](https://github.com/23004345/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138849203/4804a970-57a3-47d9-86da-53c4b6b0b076)
 
 
 ### RESULTS 
+flip-flop for d flip-flop,t flip-flop,jk flip-flop ,sr flip-flop circuit are studied and the truth table for
+different logic gates are verified
